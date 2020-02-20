@@ -1,5 +1,5 @@
   organizationFolder('galba-zdata') {
-    description('This contains branch source jobs for example-org GitHub')
+    description('This contains branch source jobs for example-org GitHus')
     displayName('example-org')
     triggers {
       periodic(2400)
